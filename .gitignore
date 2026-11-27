@@ -2,8 +2,7 @@
 .DS_Store
 
 # ANSR restricted datasets
-data/interim/*
-data/processed/*
+data/raw/*
 
 # Jupyter
 .ipynb_checkpoints/
